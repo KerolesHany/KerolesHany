@@ -21,6 +21,16 @@ Faculty of Computers and Information, Assiut University
 
 ---
 
+## 📘 Courses
+
+- 🎯 **Programming Fundamentals Diploma** – Route Academy  
+  Covered problem solving, basic data structures, and object-oriented programming in C++, SOLID Principles, and Clean Code. 
+
+- 📱 **Flutter Development Diploma** – Route Academy  
+  Learned UI design, state management, Firebase integration, and clean architecture in Flutter.
+
+---
+
 ## 🛠️ Skills
 
 ### Programming Languages
