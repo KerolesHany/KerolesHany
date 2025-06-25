@@ -49,17 +49,22 @@ Faculty of Computers and Information, Assiut University
 
 ## 💼 Projects
 
-### 🔥 [News App](https://github.com/KerolesHany/News-App.git)
-- Built a categorized news app using Flutter and an external API.
-- Used **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.
+### 🎬 [Movies App](https://github.com/KerolesHany/Movies-App.git)  
+- A full-featured movies browsing app using Flutter and REST API.  
+- Implemented **clean architecture** with **Cubit**, **Repository Pattern**, and **modular code**.  
+- Supports categorized browsing, error/loading states, and responsive UI.
+
+### 🔥 [News App](https://github.com/KerolesHany/News-App.git)  
+- Built a categorized news app using Flutter and an external API.  
+- Used **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.  
 - Designed a user-friendly interface with real-time updates.
 
-### ✅ [To-Do App](https://github.com/KerolesHany/To-Do-App/tree/todoapp)
-- Created a task management app using **Provider** and **Firebase**.
+### ✅ [To-Do App](https://github.com/KerolesHany/To-Do-App/tree/todoapp)  
+- Created a task management app using **Provider** and **Firebase**.  
 - Integrated **Firebase Firestore** and **Authentication** for secure task storage and user login.
 
-### 🩸 Blood Bank App (Private)
-- Developed a blood donation app with donor search and 3-month donation tracking.
+### 🩸 Blood Bank App (Private)  
+- Developed a blood donation app with donor search and 3-month donation tracking.  
 - Used **Firebase** for real-time database and user management.
 
 ---
