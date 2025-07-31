@@ -17,11 +17,11 @@ I'm always exploring new technologies and love using tools like **ChatGPT**, **C
 **Bachelor's Degree in Computer Science**  
 Faculty of Computers and Information, Assiut University  
 📅 2022 – 2026  
-📈 GPA: 3.1 (Very Good)
+📈 GPA: 3.0 (Very Good)
 
 ---
 
-## 📘 Courses
+## 📘 Courses & 
 
 - 🎯 **Programming Fundamentals Diploma** – Route Academy  
   Covered problem solving, basic data structures, and object-oriented programming in C++, SOLID Principles, and Clean Code. 
