@@ -21,7 +21,7 @@ Faculty of Computers and Information, Assiut University
 
 ---
 
-## 📘 Courses & 
+## 📘 Courses & Diplomas
 
 - 🎯 **Programming Fundamentals Diploma** – Route Academy  
   Covered problem solving, basic data structures, and object-oriented programming in C++, SOLID Principles, and Clean Code. 
@@ -58,6 +58,11 @@ Faculty of Computers and Information, Assiut University
 - Built a categorized news app using Flutter and an external API.  
 - Used **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.  
 - Designed a user-friendly interface with real-time updates.
+
+### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
+- Developed a complete e-commerce app with product browsing, cart, and checkout features.  
+- Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
+- Integrated **API** for fetching product data with clean and responsive UI.  
 
 ### ✅ [To-Do App](https://github.com/KerolesHany/To-Do-App/tree/todoapp)  
 - Created a task management app using **Provider** and **Firebase**.  
