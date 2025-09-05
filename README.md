@@ -16,10 +16,7 @@
 ## 🧑‍💻 Summary
 
 Hi, I'm Keroles, a passionate **Flutter Mobile App Developer** specialized in building modern, scalable, and user-friendly apps for **iOS & Android**.  
-I turn ideas into high-quality mobile applications with smooth performance and attractive designs.  
-My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience.  
-I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates.  
-With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
+I turn ideas into high-quality mobile applications with smooth performance and attractive designs.My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience. I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates. With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
 
 ---
 
