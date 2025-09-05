@@ -27,12 +27,12 @@ I turn ideas into high-quality mobile applications with smooth performance and a
 - Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
 - Integrated **API** for fetching product data with clean and responsive UI.  
 
-### 🎬 [Movies App](https://github.com/KerolesHany/Movies-App.git)  
+### 🎬 [Movies App](https://github.com/KerolesHany/Movies-App/tree/development)  
 - A full-featured movies browsing app using Flutter and REST API.  
 - Implemented **clean architecture** with **Cubit**, **Repository Pattern**, and **modular code**.  
 - Supports categorized browsing, error/loading states, and responsive UI.
 
-### 🔥 [News App](https://github.com/KerolesHany/News-App.git)  
+### 🔥 [News App] (https://github.com/KerolesHany/News-App/tree/development) 
 - Built a categorized news app using Flutter and an external API.  
 - Used **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.  
 - Designed a user-friendly interface with real-time updates.
