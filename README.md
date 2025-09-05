@@ -15,13 +15,11 @@
 
 ## 🧑‍💻 Summary
 
-I’m a passionate Mobile Developer currently studying Computer Science at **Assiut University** (Expected Graduation: 2026).  
-I build cross-platform apps using **Flutter** and **Dart**, and I enjoy solving problems using algorithms and data structures.  
-I'm always exploring new technologies and love using tools like **ChatGPT**, **Copilot**, and **DeepSeek** to boost my productivity and learning.  
-
-I'm a passionate **Flutter developer** with solid skills in building clean, responsive, and high-quality mobile applications using Flutter and Dart.  
-I'm skilled at creating smooth user experiences, managing state efficiently, and integrating APIs.  
-I enjoy solving UI/UX challenges and turning ideas into polished, functional apps.  
+Hi, I'm Keroles, a passionate **Flutter Mobile App Developer** specialized in building modern, scalable, and user-friendly apps for **iOS & Android**.  
+I turn ideas into high-quality mobile applications with smooth performance and attractive designs.  
+My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience.  
+I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates.  
+With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
 
 ---
 
