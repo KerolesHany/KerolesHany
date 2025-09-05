@@ -31,23 +31,34 @@ Faculty of Computers and Information, Assiut University
 
 ---
 
-## 🛠️ Skills
+## 💼 Internships
 
-### Programming Languages
-- Dart, C++, Java, Python
+### 🏢 Pharaonx | Flutter Developer Intern  
+📅 07/2025 – 08/2025  
+- Completed a Flutter internship where I developed a task and project management app integrated with **Frappe ERP** via **REST API**.  
+- Applied **MVVM architecture**, implemented authentication with Frappe, and used **SharedPreferences** for local storage.  
+- Gained hands-on experience in **Clean Code**, **OOP**, **state management**, and **role-based access control**.  
 
-### Frameworks & Tools
-- Flutter, Cubit, Provider, Firebase, RESTful API, Localization, Theming
+---
 
-### Software Concepts
-- OOP, SOLID Principles, Clean Code, Repository Pattern, MVVM
+## 🛠️ Technical Skills
 
-### Tools & Platforms
-- Git/GitHub, Figma, ChatGPT, DeepSeek, Copilot
+- **Programming Languages:** Java, C, C++, Python, Dart  
+- **Mobile App Development:** Flutter, Firebase, State Management (Cubit, Provider), Theming, Localization, Authentication, Maps, Payment Integration, Notifications, Responsive UI  
+- **Software Engineering:** OOP, Data Structures, Algorithms, Problem-Solving, Agile Methodology  
+- **Architecture & Design Patterns:** Clean Architecture, MVVM, SOLID Principles  
+- **Databases:** MySQL, Firebase  
+- **Version Control & Collaboration:** Git, GitHub  
+- **Tools & Platforms:** Visual Studio Code, Android Studio, Postman, Figma, Firebase CLI  
 
 ---
 
 ## 💼 Projects
+
+### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
+- Developed a complete e-commerce app with product browsing, cart, and checkout features.  
+- Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
+- Integrated **API** for fetching product data with clean and responsive UI.  
 
 ### 🎬 [Movies App](https://github.com/KerolesHany/Movies-App.git)  
 - A full-featured movies browsing app using Flutter and REST API.  
@@ -58,11 +69,6 @@ Faculty of Computers and Information, Assiut University
 - Built a categorized news app using Flutter and an external API.  
 - Used **MVVM**, **Cubit**, and **Repository Pattern** for clean architecture.  
 - Designed a user-friendly interface with real-time updates.
-
-### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
-- Developed a complete e-commerce app with product browsing, cart, and checkout features.  
-- Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
-- Integrated **API** for fetching product data with clean and responsive UI.  
 
 ### ✅ [To-Do App](https://github.com/KerolesHany/To-Do-App/tree/todoapp)  
 - Created a task management app using **Provider** and **Firebase**.  
