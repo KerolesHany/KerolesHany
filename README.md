@@ -16,7 +16,19 @@
 ## 🧑‍💻 Summary
 
 Hi, I'm Keroles, a passionate **Flutter Mobile App Developer** specialized in building modern, scalable, and user-friendly apps for **iOS & Android**.  
-I turn ideas into high-quality mobile applications with smooth performance and attractive designs.My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience. I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates. With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
+I turn ideas into high-quality mobile applications with smooth performance and attractive designs. My focus is on delivering fast, reliable, and cross-platform solutions that enhance user experience. I also handle publishing on **Google Play** & **Apple App Store** while ensuring ongoing support and updates. With strong problem-solving skills, I continuously learn new technologies to bring your vision to life.  
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Java, C, C++, Python, Dart  
+- **Mobile App Development:** Flutter, Firebase, State Management (Cubit, Provider), Theming, Localization, Authentication, Maps, Payment Integration, Notifications, Responsive UI  
+- **Software Engineering:** OOP, Data Structures, Algorithms, Problem-Solving, Agile Methodology  
+- **Architecture & Design Patterns:** Clean Architecture, MVVM, SOLID Principles  
+- **Databases:** MySQL, Firebase  
+- **Version Control & Collaboration:** Git, GitHub  
+- **Tools & Platforms:** Visual Studio Code, Android Studio, Postman, Figma, Firebase CLI  
 
 ---
 
@@ -64,18 +76,6 @@ I turn ideas into high-quality mobile applications with smooth performance and a
 
 - 📱 **Flutter Development Diploma** – Route Academy  
   Learned UI design, state management, Firebase integration, and clean architecture in Flutter.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Java, C, C++, Python, Dart  
-- **Mobile App Development:** Flutter, Firebase, State Management (Cubit, Provider), Theming, Localization, Authentication, Maps, Payment Integration, Notifications, Responsive UI  
-- **Software Engineering:** OOP, Data Structures, Algorithms, Problem-Solving, Agile Methodology  
-- **Architecture & Design Patterns:** Clean Architecture, MVVM, SOLID Principles  
-- **Databases:** MySQL, Firebase  
-- **Version Control & Collaboration:** Git, GitHub  
-- **Tools & Platforms:** Visual Studio Code, Android Studio, Postman, Figma, Firebase CLI  
 
 ---
 
