@@ -34,6 +34,13 @@ I turn ideas into high-quality mobile applications with smooth performance and a
 
 ## 💼 Projects
 
+### 💬 [Chat App](https://github.com/KerolesHany/chat-app)  
+- A real-time chat app where users can **create rooms**, set a **topic**, and chat with friends about it.  
+- Implemented **Clean Architecture** and **Repository Pattern** for scalable code.  
+- Used **Firebase Authentication** for secure login/signup.  
+- Integrated **Cloud Firestore Streams** for real-time chat updates.  
+- Managed state with **Cubit (BLoC)** and applied **Firebase Error Handling** for smooth user experience.  
+
 ### 🛒 [E-Commerce App](https://github.com/KerolesHany/e-commerce-app)  
 - Developed a complete e-commerce app with product browsing, cart, and checkout features.  
 - Implemented **Cubit** and **Repository Pattern** for scalable architecture.  
